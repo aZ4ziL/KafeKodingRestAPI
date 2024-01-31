@@ -1,4 +1,4 @@
-module kafekoding_api
+module KafeKodingRestAPI
 
 go 1.21.5
 
